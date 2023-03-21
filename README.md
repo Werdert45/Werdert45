@@ -11,11 +11,14 @@ I'm a Software Engineer passionate about everything about data. I love to create
 
 🌱 I’m currently learning GraphQL.
 
+---
 
-🤝  Connect with me on social media:
+### 🤝  Connect with me on social media:
 
 [<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://github.com/reMRKableDev/reMRKableDev/blob/main/instagram.svg" />](https://www.instagram.com/ianronk/)
 [<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://github.com/reMRKableDev/reMRKableDev/blob/main/linkedin.svg" />](https://www.linkedin.com/in/ian-ronk-7b054a120/)
+
+<br />
 
 ---
 
